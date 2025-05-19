@@ -1,3 +1,3 @@
 #git-tests
 
-Reposítório para testes de comandos git
+Repositório para testes de comandos git
